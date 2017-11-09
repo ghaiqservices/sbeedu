@@ -1,0 +1,10 @@
+.bg-white{background: #ffffff;}
+.login_bg form input[type=text] { border: 0; box-shadow:none; font-size: 12px; font-weight:bold; color:#000}
+.course_main {font-size: 1.4rem;}
+.sngImg {  border: 5px solid #fff; }
+@media (min-width: 768px) {
+  .login_bg.sign_up { padding:100px 40px;}
+}
+@media (min-width: 992px) {
+  .login_bg.sign_up { padding:100px 40px;}
+}
